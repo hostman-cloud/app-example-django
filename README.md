@@ -4,7 +4,7 @@
 
 An example [Django](https://www.djangoproject.com/) application that can be deployed to **Hostman Cloud Apps** with no configuration.
 
-:tada: [Demo]()
+:tada: [Demo](https://hostman-cloud-app-example-django-379e.hostman.dev/)
 
 :rocket: [Create your App](https://hostman.cloud/my/apps/create)
 
